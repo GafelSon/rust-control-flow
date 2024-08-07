@@ -1,5 +1,7 @@
 # Rust Control Flow Exercises
 
+![Screenshot 2024-08-07 at 17 34 24](https://github.com/user-attachments/assets/b9ec4fcf-9025-48bc-b197-405edaf89aa2)
+
 Welcome to the **Rust Control Flow Exercises** repository! This project contains a series of practice problems and examples related to the Control Flow chapter of the Rust programming language tutorial. These exercises will help you get hands-on experience with various control flow constructs in Rust, such as loops, conditional statements, and more.
 
 ## Table of Contents
