@@ -46,12 +46,14 @@ rust-control-flow-exercises/
 To run a specific exercise, use the following command, replacing example with the name of the file (without the .rs extension):
     ```sh
     cargo run --bin filename
-For example:
+    ```
+    For example:
+
     ```sh
     cargo run --bin TMP-converter
     cargo run --bin fibonacci
     cargo run --bin christmas
-```
+    ```
 
 3. Explore and Modify:
 Feel free to explore the exercises and modify the code to test different scenarios. The files are designed to be self-contained and provide a good starting point for learning Rust’s control flow features.
