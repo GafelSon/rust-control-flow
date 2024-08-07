@@ -38,22 +38,21 @@ rust-control-flow-exercises/
 
 1. **Clone the Repository:**
 
-   ```sh
-   git clone https://github.com/yourusername/rust-control-flow-exercises.git
-   cd rust-control-flow-exercises
-   ```
+```sh
+    git clone https://github.com/yourusername/rust-control-flow-exercises.git
+    cd rust-control-flow-exercises
+```
 2. Run Exercises:
 To run a specific exercise, use the following command, replacing example with the name of the file (without the .rs extension):
-
-  ```sh
-  cargo run --bin filename
-  ```
+    ```sh
+    cargo run --bin filename
 For example:
-  ```sh
-  cargo run --bin TMP-converter
-  cargo run --bin fibonacci
-  cargo run --bin christmas
-  ```
+    ```sh
+    cargo run --bin TMP-converter
+    cargo run --bin fibonacci
+    cargo run --bin christmas
+```
+
 3. Explore and Modify:
 Feel free to explore the exercises and modify the code to test different scenarios. The files are designed to be self-contained and provide a good starting point for learning Rust’s control flow features.
 
